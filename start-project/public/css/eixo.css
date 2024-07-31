@@ -1,0 +1,11 @@
+#background{
+    background-color: rgb(124, 124, 124);
+}
+
+.axelTable, th, td{
+
+    background: red;
+    border: 1px,solid;
+    color:black;
+}
+
